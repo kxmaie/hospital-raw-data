@@ -26,7 +26,7 @@
 
 {
 "entity":"labs_timeseries",
-"source_url":"blob/main/data/labs_timeseries.csv",
+"source_url":"refs/heads/main/data/labs_timeseries.csv",
 "raw_folder":"raw/labs/",
 "raw_file":"labs_timeseries.csv",
 "file_format":"csv",
