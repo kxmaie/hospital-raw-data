@@ -3,7 +3,7 @@
 
 {
 "entity":"patients",
-"source_url":"blob/main/data/patients.csv",
+"source_url":"refs/heads/main/data/patients.csv",
 "raw_folder":"raw/patients/",
 "raw_file":"patients.csv",
 "file_format":"csv",
