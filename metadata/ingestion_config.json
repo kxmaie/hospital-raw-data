@@ -17,7 +17,7 @@
 "source_url":"https://raw.githubusercontent.com/kxmaie/hospital-raw-data/refs/heads/main/data/vitals_timeseries.csv",
 "raw_folder":"raw/vitals/",
 "raw_file":"vitals_timeseries.csv",
-"file_format":"csv"
+"file_format":"csv",
 "target_table":"bronze_vitals_hourly",
 "active":true
 
