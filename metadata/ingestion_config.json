@@ -3,7 +3,7 @@
 
 {
 "entity":"patients",
-"source_url":"https://raw.githubusercontent.com/kxmaie/hospital-raw-data/refs/heads/main/data/patients.csv",
+"source_url":"https://github.com/kxmaie/hospital-raw-data/blob/main/data/patients.csv",
 "raw_folder":"raw/patients/",
 "raw_file":"patients.csv",
 "file_format":"csv",
