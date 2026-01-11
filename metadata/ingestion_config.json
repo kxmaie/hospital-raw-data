@@ -14,7 +14,7 @@
 },
 {
 "entity":"vitals_timeseries",
-"source_url":"blob/main/data/vitals_timeseries.csv",
+"source_url":"refs/heads/main/data/vitals_timeseries.csv",
 "raw_folder":"raw/vitals/",
 "raw_file":"vitals_timeseries.csv",
 "file_format":"csv",
