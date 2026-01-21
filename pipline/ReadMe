@@ -1,0 +1,14 @@
+# Bronze Ingestion Pipeline
+
+This pipeline ingests raw CSV files from GitHub into the Lakehouse Bronze tables.
+
+## Steps:
+1. Lookup JSON config for source files
+2. ForEach activity to iterate over entities
+3. Copy Data activity to move files to Lakehouse
+4. Logging / ingestion timestamp
+
+**Notes:**
+- Uses domain-independent ingestion
+- Supports incremental loads
+
