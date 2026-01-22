@@ -11,6 +11,8 @@ End-to-end data engineering project built on Microsoft Fabric using Medallion Ar
 | **Bronze** | Raw ingestion from CSV files on GitHub into Lakehouse tables. |
 | **Silver** | Cleansed and enriched tables (patients, labs, vitals) with validations and transformations. |
 | **Gold**   | Domain-specific tables for Doctors and Nursing teams: <br>• `gold_doctors_data` <br>• `gold_doctors_data` |
+<img width="955" height="671" alt="image" src="https://github.com/user-attachments/assets/619a28d7-5f93-4408-8215-0275ea3a2475" />
+
 
 ---
 
